@@ -6,7 +6,10 @@
  - GPIO Pin maps: https://www.raspberrypi-spy.co.uk/2012/06/simple-guide-to-the-rpi-gpio-header-and-pins/#prettyPhoto
  
  
- ### Notes for demo specific module utilization:
+### Notes for demo specific module utilization:
  
- #### Sound Module (VMA309)
+#### Sound Module (VMA309)
+
  - https://www.velleman.eu/products/view/?id=435532
+
+
