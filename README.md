@@ -1,8 +1,8 @@
-# arc-G
+# arc
 
 ### What is it
 
-The arc-G is a kit consisting of Raspberry Pi's, sound sensors, and software that tracks sound levels which match those of gunshots. The system is designed to automatically call 911 upons successful verification of the sound, and also has functionality which can approximate the origin.
+A kit consisting of Raspberry Pi's, sound sensors, and software that tracks sound levels which match those of gunshots. The system is designed to automatically call 911 upons successful verification of the sound, and also has functionality which can approximate the origin.
 
 ### Why
 
