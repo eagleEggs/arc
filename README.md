@@ -7,3 +7,17 @@ A kit consisting of Raspberry Pi's, sound sensors, and software that tracks soun
 ### Why
 
 The purpose is to provide an affordable, easy to implement device which can be utilized by entities that may not have the funding to purchase adequate security devices to monitor instances of increased activity in the area.
+
+### Examples
+
+`
+Starting Up... `<br>
+`Submitted query to database`<br>
+`Sound detected 2018-05-23 03:52:09.031056 1`<br>
+`Submitted query to database`<br>
+`Sound detected 2018-05-23 03:52:09.244545 2`<br>
+`Submitted query to database`<br>
+`Sound detected 2018-05-23 03:52:10.181166 3`<br>
+`Submitted query to database`<br>
+`Sound detected 2018-05-23 03:52:10.402457 4`<br>
+`Quitting`
