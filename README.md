@@ -8,6 +8,10 @@ A kit consisting of Raspberry Pi's, sound sensors, and software that tracks soun
 
 The purpose is to provide an affordable, easy to implement device which can be utilized by entities that may not have the funding to purchase adequate security devices to monitor instances of increased activity in the area.
 
+### Status
+
+In-Dev, Unstable
+
 ### Examples
 
 `Setting up System...`<br>
