@@ -10,14 +10,40 @@ The purpose is to provide an affordable, easy to implement device which can be u
 
 ### Examples
 
-`
-Starting Up... `<br>
-`Submitted query to database`<br>
-`Sound detected 2018-05-23 03:52:09.031056 1`<br>
-`Submitted query to database`<br>
-`Sound detected 2018-05-23 03:52:09.244545 2`<br>
-`Submitted query to database`<br>
-`Sound detected 2018-05-23 03:52:10.181166 3`<br>
-`Submitted query to database`<br>
-`Sound detected 2018-05-23 03:52:10.402457 4`<br>
-`Quitting`
+`Setting up System...`<br>
+`Setting up Database...`<br>
+`Submitted logon to database`<br>
+`Checking...`<br>
+`Checking Database`<br>
+`Database is Closed`<br>
+`Checking...`<br>
+`Checking...`<br>
+`Checking...`<br>
+`Sound detected 2018-05-27 03:55:12.857520`<br>
+`Alert 2018-05-27 03:55:12.857520`<br>
+`Initiated Camera`<br>
+`Set Camera Resolution`<br>
+`Started Camera Preview`<br>
+`Checking...`<br>
+`Checking Database`<br>
+`Database is Closed`<br>
+`Checking...`<br>
+`Checking...`<br>
+`Checking...`<br>
+`Started Recording...`<br>
+`Stopped Recording`<br>
+`Stopped Preview`<br>
+`Opened Video to prep for Database`<br>
+`Encoded Video`<br>
+`Set up qdb2 Cursor`<br>
+`Created Insert String`<br>
+`Inserted Query`<br>
+`Sending Email Alert`<br>
+`Checking...`<br>
+`Checking...`<br>
+`Checking...`<br>
+`Checking...`<br>
+`Sound detected 2018-05-27 03:55:17.646580`<br>
+`Alert 2018-05-27 03:55:17.646580`<br>
+
+
