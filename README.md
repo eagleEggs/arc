@@ -10,7 +10,8 @@ The purpose is to provide an affordable, easy to implement device which can be u
 
 ### Status
 
-In-Dev, Unstable
+In-Dev, Unstable.
+Currently fully functions to work only on the first sound detected.
 
 ### Setup
 
@@ -24,6 +25,9 @@ Run the python script.
 
 Down the pipeline there are plans to make the pi boot directly into the arc, as well as a simple setup script that brings in all dependencies.
 
+### Contributions
+
+Feel free to add to this and create a pull request with your features, fixes, or other modifications.
 
 ### Video Examples
 
