@@ -19,7 +19,9 @@ For the base testing model:
 
  - Sound Sensor [https://www.velleman.eu/products/view/?id=435532] Model: [VMA309]
  - LED Sensor [https://www.velleman.eu/products/view/?id=435550] Model: {VMA318]
- - Camera Module [https://www.amazon.com/Kuman-Raspberry-Camera-Module-Supports/dp/B0759GYR51/ref=sr_1_8?ie=UTF8&qid=1527541394&sr=8-8&keywords=pi+camera] Model: [OV5647]
+ - Camera Module:<br>
+  Amazon - [https://www.amazon.com/Kuman-Raspberry-Camera-Module-Supports/dp/B0759GYR51/ref=sr_1_8?ie=UTF8&qid=1527541394&sr=8-8&keywords=pi+camera] <br>
+   Vendor - [http://www.kumantech.com/kuman-5mp-1080p-hd-camera-module-for-raspberry-pi-for-raspberry-pi-3-model-b-b-a-rpi-2-1-sc15_p0063.html] Model: [OV5647]
 
 Run the python script.
 
