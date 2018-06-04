@@ -2,7 +2,7 @@
 
 ### What is it
 
-A kit consisting of Raspberry Pi's, sound sensors, and software that tracks sound levels which match those of abnormally high volume. The system is designed to automatically store sound values within a database, graphing, photos, video, and also has functionality which can approximate the origin when more than one device is implemented on premises.
+A kit consisting of boards, sensors, and software that tracks sound levels which match those of abnormally high volume. The system is designed to automatically store sound values within a database, graphing, photos, video, and also has functionality which can approximate the origin when more than one device is implemented on premises.
 
 ### Why
 
@@ -25,7 +25,7 @@ For the base testing model:
 
 Run the python script.
 
-Down the pipeline there are plans to make the pi boot directly into the arc, as well as a simple setup script that brings in all dependencies.
+Down the pipeline there are plans to make it boot directly into the arc, as well as a simple setup script that brings in all dependencies.
 
 ### Contributions
 
