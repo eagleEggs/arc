@@ -13,26 +13,34 @@ The purpose is to provide an affordable, easy to implement device which can be u
 In-Dev, Unstable.
 Currently fully functions to work only on the first sound detected.
 
+### Roadmap
+
+ - Networking for multiple devices, allowing location tracking within buildings.
+ - Checks for actual dB levels of gunshots.
+ - Refine code to be more robust, self checking and self recovery of failing modules.
+ - Web console for services to monitor remotely, as well as configure and manage devices.
+ - Create make file - Bring in dependencies - Boot at startup.
+ 
+These will be tracked in the Projects tab.
+
 ### Setup
 
 For the base testing model:
 
+ - Raspberry PI 3 B+
  - Sound Sensor [https://www.velleman.eu/products/view/?id=435532] Model: [VMA309]
  - LED Sensor [https://www.velleman.eu/products/view/?id=435550] Model: {VMA318]
  - Camera Module:<br>
   Amazon - [https://www.amazon.com/Kuman-Raspberry-Camera-Module-Supports/dp/B0759GYR51/ref=sr_1_8?ie=UTF8&qid=1527541394&sr=8-8&keywords=pi+camera] <br>
    Vendor - [http://www.kumantech.com/kuman-5mp-1080p-hd-camera-module-for-raspberry-pi-for-raspberry-pi-3-model-b-b-a-rpi-2-1-sc15_p0063.html] Model: [OV5647]
 
-Run the python script.
-
-Down the pipeline there are plans to make it boot directly into the arc, as well as a simple setup script that brings in all dependencies.
+Setup information to be created soon.
+However if you have the dependencies, you can simply run the Python script.
+Be sure to change the GPIO PIN numbers to match yours, and enter your DB / Email information.
 
 ### Contributions
 
 Feel free to add to this and create a pull request with your features, fixes, or other modifications.
-
-### Video Examples
-
 
 ### Log Examples
 
