@@ -44,6 +44,12 @@ Be sure to change the GPIO PIN numbers to match yours, and enter your DB / Email
 
 Feel free to add to this and create a pull request with your features, fixes, or other modifications.
 
+### Development Diagrams
+
+![anim1](https://github.com/eagleEggs/arc/blob/master/images/arc_diag1.png?)<br>
+![anim1](https://github.com/eagleEggs/arc/blob/master/images/arc_diag2.png?)<br>
+![anim1](https://github.com/eagleEggs/arc/blob/master/images/arc_diag3.png?)<br>
+
 ### Log Examples
 
 `Setting up System...`<br>
