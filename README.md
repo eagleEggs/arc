@@ -1,4 +1,4 @@
-# arc
+# arc ![Packagist](https://img.shields.io/badge/Language-Python-green.svg?style=plastic) ![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg?style=plastic)
 
 ### What is it
 
